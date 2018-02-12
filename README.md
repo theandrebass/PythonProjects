@@ -4,4 +4,4 @@ Cents - Any amount of money > 5 cents can be made with 2 and 5 cents. Write a me
 
 Hangman
 
-WebsiteStatus -
+WebsiteStatus - This function can check various states of any website
